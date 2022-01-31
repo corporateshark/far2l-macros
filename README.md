@@ -21,4 +21,4 @@ SZ
 Ins\0
 ```
 
-
+Jan 2022 update: in newer far2l's versions key macros are stored differently. Put key_macros.ini into ```~/.config/far2l/settings```
